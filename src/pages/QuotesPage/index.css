@@ -1,0 +1,11 @@
+.quote-container {
+    margin: .2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+    gap: 2rem;
+    justify-items: center; 
+}
+
+.quote-card {
+    margin-top: .2rem;
+}
