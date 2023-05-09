@@ -1,1 +1,0 @@
-export const API_ENDPOINT = 'https://the-one-api.dev/v2/';
